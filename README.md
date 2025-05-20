@@ -1,2 +1,2 @@
-# blackbeard
-CoreXY Laser Engraver/Cutter
+# BLACKBEARD
+CoreXY Laser Engraver/Cutter from scratch.
