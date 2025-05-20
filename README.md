@@ -1,2 +1,5 @@
-# BLACKBEARD
-CoreXY Laser Engraver/Cutter from scratch.
+# Obsidian Nomad
+
+CoreXY Laser Engraver/Cutter
+
+More to come!
